@@ -12,22 +12,20 @@
 class Solution {
 public:
     unordered_map<int, int> inor;
+    int max=INT_MIN;
     void inorder(TreeNode* root){
         if(root==NULL)
             return;
         inorder(root->left);
         inor[root->val]++;
+        if(inor[root->val]>max){
+            max = inor[root->val];
+        }
         inorder(root->right);
     }
     vector<int> findMode(TreeNode* root) {
         inorder(root);
         vector<int> res;
-        int max= inor[root->val], m=root->val;
-        for(auto it: inor){
-            if(it.second>max){
-                max = it.second;
-            }
-        }
         for(auto it: inor){
             if(it.second==max){
                 res.push_back(it.first);
