@@ -3,19 +3,15 @@ public:
     bool judgeCircle(string moves) {
         int side=0, ver=0;
         for(int i=0 ; i<moves.size() ; i++){
-            if(moves[i]=='L'){
+            if(moves[i]=='L')
                 side++;
-            }
-            else if(moves[i]=='R'){
+            if(moves[i]=='R')
                 side--;
-            }
-            if(moves[i]=='U'){
+            if(moves[i]=='U')
                 ver++;
-            }
-            else if(moves[i]=='D'){
+            if(moves[i]=='D')
                 ver--;
-            }
         }
-        return (side==0 and ver==0)? true: false;
+        return (side==0 and ver==0);
     }
 };
