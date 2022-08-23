@@ -2,14 +2,14 @@ class Solution {
 public:
     bool judgeCircle(string moves) {
         int side=0, ver=0;
-        for(int i=0 ; i<moves.size() ; i++){
-            if(moves[i]=='L')
+        for(char i: moves){
+            if(i=='L')
                 side++;
-            if(moves[i]=='R')
+            if(i=='R')
                 side--;
-            if(moves[i]=='U')
+            if(i=='U')
                 ver++;
-            if(moves[i]=='D')
+            if(i=='D')
                 ver--;
         }
         return (side==0 and ver==0);
