@@ -1,15 +1,16 @@
 class Solution {
 public:
     bool canConstruct(string ransomNote, string magazine) {
-        map<char, int> mm, rm;
-        for(char it: magazine)
-            mm[it]++;
-        for(char it: ransomNote)
-            rm[it]++;
-        for(auto it: rm){
-            if(mm[it.first]<it.second){
+        int arr[26]={0};
+        for(int i=0 ; i<magazine.size() ; i++){
+            int d = magazine[i]-97;
+            arr[d]++;
+        }
+        for(int i=0 ; i<ransomNote.size() ; i++){
+            int d = ransomNote[i]-97;
+            arr[d]--;
+            if(arr[d]<0)
                 return false;
-            }
         }
         return true;
     }
