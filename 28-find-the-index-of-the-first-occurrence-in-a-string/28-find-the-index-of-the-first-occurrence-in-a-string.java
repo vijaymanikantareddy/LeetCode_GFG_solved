@@ -5,7 +5,7 @@ class Solution {
         int le = needle.length();
         for(int i=0 ; i<=haystack.length()-le ; i++)
         {
-            if(needle.equals(haystack.substring(i, le+i))){
+            if(needle.equals(haystack.subSequence(i, le+i))){
                 return i;
             }
         }
