@@ -6,10 +6,10 @@ public:
         for(int i: nums){
             mp[i]++;
             if(mp[i-1]){
-                ans = ans>(mp[i]+mp[i-1])? ans : (mp[i]+mp[i-1]);
+                ans = max(ans, mp[i]+mp[i-1]);
             }
             if(mp[i+1]){
-                ans = ans>(mp[i]+mp[i+1])? ans : (mp[i]+mp[i+1]);
+                ans = max(ans, mp[i]+mp[i+1]);
             }
         }
         return ans;
