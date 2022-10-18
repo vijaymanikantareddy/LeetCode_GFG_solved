@@ -13,8 +13,7 @@ public:
 	    // code here
 	    int l=0, r=n-1, mx = arr[0];
 	    while(l<=r){
-	        mx = arr[l]>mx? arr[l]: mx;
-	        mx = arr[r]>mx? arr[r]: mx;
+	        mx = (arr[l]>arr[r])? (mx>arr[l]? mx: arr[l]) : (arr[r]>mx? arr[r]: mx);
 	        l++;
 	        r--;
 	    }
