@@ -42,14 +42,14 @@ class Solution
     public boolean findPair(int arr[], int size, int n)
     {
         //code here.
-        Arrays.sort(arr);
+        HashSet<Integer> hs = new HashSet<>();
         HashMap<Integer, Integer> mp = new HashMap<>();
         for(int i = 0 ; i < size ; i++){
-            if(mp.containsKey(arr[i])){
+            if(hs.contains(arr[i]+n) || hs.contains(arr[i]-n)){
                 return true;
             }
             else{
-                mp.put(arr[i]+n, 1);
+                hs.add(arr[i]);
             }
         }
         return false;
