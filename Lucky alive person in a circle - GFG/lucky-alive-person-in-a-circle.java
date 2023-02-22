@@ -19,9 +19,10 @@ class Solution{
     }
     static int find(int N){
         // code here
+        //Creating a Circular Linkedlist
         Node head = null;
         Node ptr = head;
-        for (int i = 1; i <= N; i++) {
+        for (int i = 1; i <= N; i+=2) {
             Node newnode = new Node(i);
             if (head == null) {
                 head = newnode;
@@ -33,12 +34,14 @@ class Solution{
                 ptr = ptr.next;
             }
         }
+        
+        //Traversing Nodes until only one node remains
         Node curr = head;
-        while (curr.next != curr) {
+        while (curr.next != curr) { // if one node remains then it stops
             curr.next = curr.next.next;
             curr = curr.next;
         }
-        return curr.data;
+        return N%2==0? curr.data : curr.data-2;
     }
 }
 
