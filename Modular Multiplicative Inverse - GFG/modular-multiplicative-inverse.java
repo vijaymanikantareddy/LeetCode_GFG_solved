@@ -49,14 +49,14 @@ class Solution
     {
       //Your code here
       int res = 0, num = 1;
-      while(res != 1){
+      while(num <= m){
           res = (num*a)%m;
-          num++;
-          if(num > 10000){
-              return -1;
+          if(res == 1){
+              return num;
           }
+          num++;
       }
-      return --num;
+      return -1;
     }
 
 }
