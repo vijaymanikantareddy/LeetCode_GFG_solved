@@ -20,7 +20,6 @@ class Solution {
                 }
             }
         }
-        List<List<Integer>> res = new ArrayList<>(se);
-        return res;
+        return new ArrayList<>(se);
     }
 }
