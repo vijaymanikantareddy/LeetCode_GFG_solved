@@ -5,9 +5,7 @@ class Solution {
             pq.add(stones[i]);
         }
         while(pq.size() > 1){
-            int a = pq.poll();            
-            int b = pq.poll();
-            pq.add(a-b);
+            pq.add(pq.poll()-pq.poll());
         }
         return pq.poll();
     }
