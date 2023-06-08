@@ -11,7 +11,26 @@ using namespace std;
 class Solution
 {
 public:
-    
+    void fun(string& nums) {
+        int ind = -1;
+        for(int i = nums.size()-2 ; i >= 0 ; i--){
+            if(nums[i] < nums[i+1]){
+                ind = i;
+                break;
+            }
+        }
+        if(ind == -1){
+            reverse(nums.begin(), nums.end());
+            return;
+        }
+        for(int i = nums.size()-1 ; i > ind ; i--){
+            if(nums[i] > nums[ind]){
+                swap(nums[i], nums[ind]);
+                break;
+            }
+        }
+        reverse(nums.begin()+ind+1, nums.end());
+    }
     string kthPermutation(int n, int k)
     {
         // code here
@@ -20,7 +39,7 @@ public:
             st += to_string(i);
         }
         for(int i = 1 ; i < k ; i++){
-            next_permutation(st.begin(), st.end());
+            fun(st);
         }
         return st;
     }
