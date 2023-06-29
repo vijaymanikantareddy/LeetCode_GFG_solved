@@ -1,6 +1,6 @@
 # Next Happy Number
 ## Hard
-<div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">For a given non-negative integer <strong>N</strong>, find the next smallest Happy Number. A number is called happy if it leads to 1 after a sequence of steps. Wherein at each step the number is replaced by the sum of squares of its digits that is if we start with Happy Number and keep replacing it with sum of squares of its digits, we reach 1 at some point. </span><br>&nbsp;<br><span style="font-size: 18px;"><strong>Example 1:</strong></span></p>
+<div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">For a given non-negative integer <strong>N</strong>, find the next smallest Happy Number. A number is called <strong>Happy</strong> if it leads to 1 after a sequence of steps. Wherein at each step the number is replaced by the sum of squares of its digits that is, if we start with Happy Number and keep replacing it with sum of squares of its digits, we reach 1 at some point. </span><br>&nbsp;<br><span style="font-size: 18px;"><strong>Example 1:</strong></span></p>
 <pre><span style="font-size: 18px;"><strong>Input:
 </strong>N = 8<strong>
 Output:
