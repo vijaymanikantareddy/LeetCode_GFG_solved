@@ -21,7 +21,6 @@ class Solution
             s.push(a);
             return ;
         }
-        
     }
 };
 
