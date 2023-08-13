@@ -7,7 +7,7 @@ using namespace std;
 // User function Template for C++
 class Solution {
   public:
-    long long int nthFibonacci(long long int n){
+    int nthFibonacci(int n){
         // code here
         if(n == 0 || n == 1){
             return n;
@@ -29,7 +29,7 @@ int main() {
     int t;
     cin >> t;
     while (t--) {
-        long long int n;
+        int n;
         cin >> n;
         Solution ob;
         cout << ob.nthFibonacci(n) << endl;
