@@ -14,16 +14,23 @@ class Solution{
     vector<int> leaders(int a[], int n){
         // Code here
         vector<int> res;
-        int mx = a[n-1];
-        res.push_back(mx);
-        for(int i = n-2 ; i >= 0 ; i--){
-            if(a[i] >= mx){
+        int mx=a[n-1];
+        if(n==0){
+            return {};
+        }
+        if(n==1){
+            return {a[0]};
+        }
+        res.push_back(a[n-1]);
+        for(int i=n-2 ; i>=0 ; i--){
+            if(a[i]>=mx){
                 res.push_back(a[i]);
                 mx = a[i];
             }
         }
         reverse(res.begin(), res.end());
         return res;
+        
     }
 };
 
