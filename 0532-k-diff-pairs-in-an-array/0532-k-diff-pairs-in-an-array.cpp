@@ -1,16 +1,19 @@
 class Solution {
 public:
     int findPairs(vector<int>& nums, int k) {
-        set<pair<int, int>> st;
+        map<int, int> mp;
         for(int i = 0 ; i < nums.size() ; i++){
-            for(int j = i+1 ; j < nums.size() ; j++){
-                if(abs(nums[i] - nums[j]) == k){
-                    int mi = nums[i] < nums[j]? nums[i] : nums[j];
-                    int ma = nums[i] > nums[j]? nums[i] : nums[j];
-                    st.insert({mi, ma});
-                }
+            mp[nums[i]]++;
+        }
+        int res = 0;
+        for(auto it: mp){
+            if(k != 0 && mp.find(it.first+k) != mp.end()){
+                res++;
+            }
+            else if(k == 0 && it.second > 1){
+                res++;
             }
         }
-        return st.size();
+        return res;
     }
 };
