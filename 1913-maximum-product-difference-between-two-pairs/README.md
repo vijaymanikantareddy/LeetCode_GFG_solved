@@ -9,7 +9,7 @@
 <p>Return <em>the <strong>maximum</strong> such product difference</em>.</p>
 
 <p>&nbsp;</p>
-<p><strong>Example 1:</strong></p>
+<p><strong class="example">Example 1:</strong></p>
 
 <pre><strong>Input:</strong> nums = [5,6,2,7,4]
 <strong>Output:</strong> 34
@@ -17,7 +17,7 @@
 The product difference is (6 * 7) - (2 * 4) = 34.
 </pre>
 
-<p><strong>Example 2:</strong></p>
+<p><strong class="example">Example 2:</strong></p>
 
 <pre><strong>Input:</strong> nums = [4,2,5,9,7,4,8]
 <strong>Output:</strong> 64
