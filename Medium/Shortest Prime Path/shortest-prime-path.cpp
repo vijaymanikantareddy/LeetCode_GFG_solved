@@ -30,17 +30,17 @@ public:
             if(s == b) return steps;
             q.pop();
             for(int i = 0 ; i < 4 ; i++){
+                char ch = s[i];
                 for(char j = '0' ; j <= '9' ; j++){
                     if(i == 0 && j == '0') continue;
-                    char ch = s[i];
                     s[i] = j;
                     int number = stoi(s);
                     if(isprime(number) && vis.find(s) == vis.end()){
                         q.push({s, steps+1});
                         vis.insert(s);
                     }
-                    s[i] = ch;
                 }
+                s[i] = ch;
             }
         }
         return -1;
