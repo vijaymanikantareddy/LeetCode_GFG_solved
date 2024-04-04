@@ -1,16 +1,16 @@
 class Solution {
 public:
     int maxDepth(string s) {
-        int cnt=0, max=0;
+        int cnt=0, mx=0;
         for(int i=0 ; i<s.size() ; i++){
             if(s[i]=='('){
                 cnt++;
-                max = cnt>max? cnt: max;
+                mx = max(cnt, mx);
             }
             else if(s[i]==')'){
                 cnt--;
             }
         }
-        return max;
+        return mx;
     }
 };
