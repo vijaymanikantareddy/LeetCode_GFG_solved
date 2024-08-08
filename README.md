@@ -30,4 +30,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+## Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
