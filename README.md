@@ -37,11 +37,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0145-binary-tree-postorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0145-binary-tree-postorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Binary Search Tree
 |  |
@@ -72,4 +74,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0145-binary-tree-postorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0776-n-ary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
