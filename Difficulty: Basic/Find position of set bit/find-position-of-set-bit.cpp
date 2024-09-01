@@ -7,15 +7,10 @@ class Solution {
   public:
     int findPosition(int N) {
         // code here
-        if((N&(N-1)) != 0 || N < 1){
+        if(N <= 0 or (N&(N-1)) != 0){
             return -1;
         }
-        int res = 1;
-        while(N>1){
-            N /= 2;
-            res++;
-        }
-        return res;
+        return log2(N)+1;
     }
 };
 
