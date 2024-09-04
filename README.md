@@ -83,4 +83,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0906-walking-robot-simulation](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0906-walking-robot-simulation) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2076-sum-of-digits-of-string-after-convert) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
