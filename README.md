@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0040-combination-sum-ii) |
 | [0870-magic-squares-in-grid](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0906-walking-robot-simulation) |
+| [2155-find-missing-observations](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Hash Table
 |  |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0870-magic-squares-in-grid) |
+| [2155-find-missing-observations](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2155-find-missing-observations) |
 ## Matrix
 |  |
 | ------- |
@@ -83,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0906-walking-robot-simulation](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0906-walking-robot-simulation) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2155-find-missing-observations](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2155-find-missing-observations) |
 ## Linked List
 |  |
 | ------- |
