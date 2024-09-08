@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0024-swap-nodes-in-pairs) |
+| [0725-split-linked-list-in-parts](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0725-split-linked-list-in-parts) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
