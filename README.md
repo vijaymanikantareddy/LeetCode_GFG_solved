@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0001-two-sum) |
 | [0040-combination-sum-ii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0040-combination-sum-ii) |
+| [0179-largest-number](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0179-largest-number) |
 | [0870-magic-squares-in-grid](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0906-walking-robot-simulation) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0179-largest-number) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -45,10 +47,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0179-largest-number) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0179-largest-number) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Tree
 |  |
