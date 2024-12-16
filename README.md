@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2411-spiral-matrix-iv](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0870-magic-squares-in-grid) |
 | [2155-find-missing-observations](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2155-find-missing-observations) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Matrix
 |  |
 | ------- |
@@ -119,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2155-find-missing-observations](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2411-spiral-matrix-iv) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Linked List
 |  |
 | ------- |
@@ -138,4 +141,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1917-maximum-average-pass-ratio) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 <!---LeetCode Topics End-->
