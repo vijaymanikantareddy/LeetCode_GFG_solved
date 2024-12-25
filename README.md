@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0145-binary-tree-postorder-traversal) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0145-binary-tree-postorder-traversal) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -98,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0145-binary-tree-postorder-traversal) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -168,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 <!---LeetCode Topics End-->
