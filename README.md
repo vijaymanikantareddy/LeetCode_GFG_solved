@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0001-two-sum) |
 | [0040-combination-sum-ii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0040-combination-sum-ii) |
 | [0179-largest-number](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0179-largest-number) |
+| [0494-target-sum](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0494-target-sum) |
 | [0780-max-chunks-to-make-sorted](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0780-max-chunks-to-make-sorted) |
 | [0870-magic-squares-in-grid](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0906-walking-robot-simulation) |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0040-combination-sum-ii) |
+| [0494-target-sum](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -174,4 +176,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
