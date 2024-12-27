@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0780-max-chunks-to-make-sorted](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0780-max-chunks-to-make-sorted) |
 | [0870-magic-squares-in-grid](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0906-walking-robot-simulation) |
+| [1063-best-sightseeing-pair](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1063-best-sightseeing-pair) |
 | [1256-rank-transform-of-an-array](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1256-rank-transform-of-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -180,4 +181,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0494-target-sum) |
+| [1063-best-sightseeing-pair](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1063-best-sightseeing-pair) |
 <!---LeetCode Topics End-->
