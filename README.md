@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1256-rank-transform-of-an-array](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2300-construct-string-with-repeat-limit) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2300-construct-string-with-repeat-limit) |
@@ -128,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0476-number-complement](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0476-number-complement) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Stack
@@ -187,4 +190,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2059-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->
