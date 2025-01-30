@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0179-largest-number) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0957-minimum-add-to-make-parentheses-valid) |
