@@ -1,21 +1,17 @@
 class Solution {
 public:
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
-        vector<vector<int>> res;
         sort(intervals.begin(), intervals.end());
-        int i = 0;
+        int i = 0, j = 1;
+        vector<vector<int>> res;
         while(i < intervals.size()){
-            int a = intervals[i][0];
-            int b = intervals[i][1];
-            int j = i+1;
-            while(j < intervals.size() && intervals[j][0] <= b){
-                a = min(a, intervals[j][0]);
-                b = max(b, intervals[j][1]);
+            int st = intervals[i][0], en = intervals[i][1];
+            while(j < intervals.size() && en >= intervals[j][0]){
+                en = max(en, intervals[j][1]);
                 j++;
-                i++;
             }
-            res.push_back({a, b});
-            i++;
+            i = j;
+            res.push_back({st, en});
         }
         return res;
     }
