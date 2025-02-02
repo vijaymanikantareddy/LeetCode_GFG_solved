@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1917-maximum-average-pass-ratio](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1917-maximum-average-pass-ratio) |
 | [2155-find-missing-observations](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2163-kth-distinct-string-in-an-array) |
