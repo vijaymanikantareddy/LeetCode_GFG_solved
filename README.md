@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1256-rank-transform-of-an-array](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2300-construct-string-with-repeat-limit) |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -72,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1396-count-servers-that-communicate](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1396-count-servers-that-communicate) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2300-construct-string-with-repeat-limit) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
