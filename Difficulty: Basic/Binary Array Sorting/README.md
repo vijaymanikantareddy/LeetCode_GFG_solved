@@ -1,0 +1,12 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/binary-array-sorting-1587115620/1">Binary Array Sorting</a></h2><h3>Difficulty Level : Difficulty: Basic</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 14pt;">You are given a binary array <strong><code>arr[]</code></strong>, where each element is either <code>0</code> or <code>1</code>. Your task is to rearrange the array in increasing order in place (without using extra space). You do not need to return anything; simply modify the input array.</span></p>
+<p><span style="font-size: 14pt;"><strong>Examples:</strong></span></p>
+<pre><span style="font-size: 14pt;"><strong>Input</strong>: arr[] = [1, 0, 1, 1, 0]
+<strong>Output</strong>: [0, 0, 1, 1, 1]
+<strong>Explanation</strong>: After arranging the elements in increasing order, elements will be as 0 0 1 1 1.</span></pre>
+<pre><span style="font-size: 14pt;"><strong>Input</strong>: arr[] = [1, 0, 1, 1, 1, 1, 1, 0, 0, 0]
+<strong>Output</strong>: [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+<strong>Explanation</strong>: After arranging the elements in increasing order, elements will be 0 0 0 0 1 1 1 1 1 1.</span></pre>
+<pre><span style="font-size: 14pt;"><strong>Input</strong>: arr[] = [1, 1, 1, 1]
+<strong>Output</strong>: [1, 1, 1, 1]
+<strong>Explanation</strong>: Since the array already contains only <code>1</code><span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">s, no change is needed.</span></span></pre>
+<p><span style="font-size: 14pt;"><strong>Constraints:</strong><br>1 ≤ arr.size() ≤ 10<sup>6</sup><br><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="mord mathnormal">a</span><span class="mord mathnormal">rr</span><span class="mopen">[</span><span class="mord mathnormal">i</span><span class="mclose">] </span><span class="mrel">∈ </span></span><span class="base"><span class="mopen">{</span><span class="mord">0</span><span class="mpunct">,</span><span class="mord">1</span><span class="mclose">}</span></span></span></span> for all valid indices <code>i</code>.</span></p></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Sorting</code>&nbsp;<code>Arrays</code>&nbsp;
