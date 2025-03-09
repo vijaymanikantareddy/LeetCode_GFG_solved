@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3483-alternating-groups-ii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
@@ -313,4 +314,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3483-alternating-groups-ii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3483-alternating-groups-ii) |
 <!---LeetCode Topics End-->
