@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0179-largest-number) |
+| [0239-sliding-window-maximum](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0239-sliding-window-maximum) |
 | [0494-target-sum](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0540-single-element-in-a-sorted-array) |
@@ -249,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0239-sliding-window-maximum) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1917-maximum-average-pass-ratio](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2300-construct-string-with-repeat-limit) |
@@ -316,15 +318,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0239-sliding-window-maximum) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3483-alternating-groups-ii) |
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0239-sliding-window-maximum) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0239-sliding-window-maximum) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
