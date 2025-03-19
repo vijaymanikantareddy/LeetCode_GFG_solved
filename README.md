@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -222,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2308-divide-array-into-equal-pairs](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Stack
 |  |
 | ------- |
@@ -301,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-product-of-the-last-k-numbers](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## String Matching
 |  |
 | ------- |
@@ -339,12 +342,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0239-sliding-window-maximum) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3483-alternating-groups-ii) |
 ## Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0239-sliding-window-maximum) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Monotonic Queue
 |  |
 | ------- |
