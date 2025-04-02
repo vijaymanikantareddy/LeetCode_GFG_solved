@@ -1,0 +1,11 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/most-occurring-elements-1587115620--143034/1?page=1&category=Heap&difficulty=Medium&status=unsolved&sortBy=submissions">K Most occurring elements</a></h2><h3>Difficulty Level : Difficulty: Medium</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Given an array <strong>arr</strong>[] in which elements may be repeating several times. Also, a positive number&nbsp;<strong>k</strong> is given and the task is to find <strong>sum </strong>of total frequencies of <strong>k</strong><strong>&nbsp;most</strong> occurring elements.</span></p>
+<p><strong><span style="font-size: 18px;">Note: </span></strong><span style="font-size: 18px;">The value of k is guaranteed to be less than or equal to the number of distinct elements in arr.</span></p>
+<p><strong><span style="font-size: 18px;">Examples :</span></strong></p>
+<pre><strong><span style="font-size: 18px;">Input: </span></strong><span style="font-size: 18px;">arr[] = [3, 1, 4, 4, 5, 2, 6, 1], k = 2
+<strong>Output: </strong>4<strong>
+Explanation: </strong>Here, 4 and 1 are 2 most occurring elements in the array, both appearing twice. So, total sum of thier frequencies is 2 + 2 = 4.</span>
+</pre>
+<pre><strong><span style="font-size: 18px;">Input: </span></strong><span style="font-size: 18px;"><span style="font-size: 18px;">arr[] = [3, 3, 3, 4, 1, 1, 6, 1], k = 2
+</span><strong style="font-size: 18px;">Output: </strong><span style="font-size: 18px;">6</span><strong style="font-size: 18px;">
+Explanation: </strong><span style="font-size: 18px;">Here, 3 and 1 are 2 most frequent elements in the array, both appearing three times. Hence, the total sum of their frequencies is 3 + 3 = 6.</span></span></pre>
+<p><span style="font-size: 18px;"><strong>Constraints:</strong><br>1 &lt;= arr.size() &lt;= 10<sup>6</sup><br>1 &lt;= K &lt;= arr.size()<br>1 &lt;= arr[i] &lt;= 10<sup>6</sup></span></p></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Heap</code>&nbsp;<code>Data Structures</code>&nbsp;
