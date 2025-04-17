@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2308-divide-array-into-equal-pairs) |
 | [2411-spiral-matrix-iv](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2411-spiral-matrix-iv) |
