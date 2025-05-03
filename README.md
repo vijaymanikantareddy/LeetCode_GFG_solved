@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0870-magic-squares-in-grid](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0906-walking-robot-simulation) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1063-best-sightseeing-pair) |
 | [1256-rank-transform-of-an-array](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1256-rank-transform-of-an-array) |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0780-max-chunks-to-make-sorted](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1917-maximum-average-pass-ratio](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2300-construct-string-with-repeat-limit) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2456-construct-smallest-number-from-di-string) |
