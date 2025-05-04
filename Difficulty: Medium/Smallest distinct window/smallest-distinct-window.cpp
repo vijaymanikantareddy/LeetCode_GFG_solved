@@ -4,10 +4,11 @@ using namespace std;
 
 
 // } Driver Code Ends
+
 class Solution {
   public:
     int findSubString(string& s) {
-        // Your code goes here
+        // code here
         unordered_map<char, int> mp;
         for(auto ch: s) mp[ch]++;
         int cnt = mp.size();
@@ -31,8 +32,9 @@ class Solution {
     }
 };
 
+
 //{ Driver Code Starts.
-//   Driver code
+//      Driver code
 int main() {
     int t;
     cin >> t;
