@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1063-best-sightseeing-pair) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1256-rank-transform-of-an-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1364-tuple-with-same-product) |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0870-magic-squares-in-grid](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1364-tuple-with-same-product) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -123,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1396-count-servers-that-communicate) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
