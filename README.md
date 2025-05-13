@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## String
 |  |
 | ------- |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3447-clear-digits](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3447-clear-digits) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Counting
 |  |
 | ------- |
@@ -142,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2448-count-number-of-bad-pairs](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Greedy
 |  |
 | ------- |
@@ -226,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2998-count-symmetric-integers](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Matrix
 |  |
 | ------- |
@@ -326,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0494-target-sum) |
 | [0583-delete-operation-for-two-strings](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0583-delete-operation-for-two-strings) |
 | [1063-best-sightseeing-pair](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1063-best-sightseeing-pair) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Prefix Sum
 |  |
 | ------- |
