@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3483-alternating-groups-ii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3639-zero-array-transformation-i](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3639-zero-array-transformation-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
 |  |
@@ -339,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1537-maximum-score-after-splitting-a-string](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3639-zero-array-transformation-i](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3639-zero-array-transformation-i) |
 ## String Matching
 |  |
 | ------- |
