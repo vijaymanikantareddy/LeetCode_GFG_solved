@@ -201,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0145-binary-tree-postorder-traversal) |
+| [0386-lexicographical-numbers](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -419,4 +420,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1656-count-good-triplets](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1656-count-good-triplets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2998-count-symmetric-integers) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
