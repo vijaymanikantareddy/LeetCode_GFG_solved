@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0127-word-ladder) |
 | [0870-magic-squares-in-grid](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0058-length-of-last-word](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0539-minimum-time-difference) |
 | [0583-delete-operation-for-two-strings](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0583-delete-operation-for-two-strings) |
@@ -341,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0127-word-ladder) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1396-count-servers-that-communicate](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1396-count-servers-that-communicate) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2493-reverse-odd-levels-of-binary-tree) |
