@@ -1,0 +1,12 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/combination-sum-1587115620/1">Combination Sum</a></h2><h3>Difficulty Level : Difficulty: Medium</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Given an array <strong>arr[]</strong> and a <strong>target</strong>, your task is to find all <strong>unique </strong>combinations in the array where the sum is equal to target. The same number may be chosen from the array <strong>any </strong>number of times to make target.</span></p>
+<p><span style="font-size: 18px;">You can return your answer in <strong>any </strong>order.</span></p>
+<p><strong><span style="font-size: 18px;">Examples:</span></strong></p>
+<pre><strong><span style="font-size: 18px;">Input: </span></strong><span style="font-size: 18px;">arr[] = [2, 4, 6, 8], target = 8
+<strong>Output: </strong>[[2 2 2 2] [2 2 4] [2 6] [4 4] [8]]<br><strong>Explanation:</strong> Total number of possible combinations are 5.</span>
+</pre>
+<pre><strong><span style="font-size: 18px;">Input: </span></strong><span style="font-size: 18px;">arr[] = [2, 7, 6, 5], target = 16
+<strong>Output: </strong>[[2 2 2 2 2 2 2 2] [2 2 2 2 2 6] [2 2 2 5 5] [2 2 5 7] [2 2 6 6] [2 7 7] [5 5 6]]<br><strong>Explanation:</strong> Total number of possible combinations are 7.
+</span></pre>
+<pre><strong><span style="font-size: 18px;">Input: </span></strong><span style="font-size: 18px;">arr[] = [6, 5, 7], target = 8
+<strong>Output: </strong>[]<br><strong>Explanation:</strong> There are no possible combinantions such that target sum is 8.</span></pre>
+<p><span style="font-size: 18px;"><strong style="font-size: 18px;">Constraints:</strong><br><span style="font-size: 18px;">1 &lt;= arr.size() &lt;= 30</span><br><span style="font-size: 18px;">2 &lt;= arr[i] &lt;= 40</span><br><span style="font-size: 18px;">2 &lt;= target &lt;= 40</span><br><span style="font-size: 18px;">All arr[i] are <strong>distinct</strong>.</span></span></p></div><p><span style=font-size:18px><strong>Company Tags : </strong><br><code>Amazon</code>&nbsp;<code>Microsoft</code>&nbsp;<code>Adobe</code>&nbsp;<br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Recursion</code>&nbsp;<code>Backtracking</code>&nbsp;<code>Algorithms</code>&nbsp;
