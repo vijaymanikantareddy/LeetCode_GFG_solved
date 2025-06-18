@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0539-minimum-time-difference) |
 | [0583-delete-operation-for-two-strings](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0583-delete-operation-for-two-strings) |
@@ -270,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0040-combination-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0494-target-sum) |
 | [2107-find-unique-binary-string](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -356,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0494-target-sum) |
 | [0583-delete-operation-for-two-strings](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0583-delete-operation-for-two-strings) |
