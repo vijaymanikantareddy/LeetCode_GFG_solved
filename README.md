@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0179-largest-number) |
 | [0239-sliding-window-maximum](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0239-sliding-window-maximum) |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0128-longest-consecutive-sequence) |
 | [0870-magic-squares-in-grid](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -397,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0128-longest-consecutive-sequence) |
 | [1396-count-servers-that-communicate](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1396-count-servers-that-communicate) |
 ## Design
 |  |
