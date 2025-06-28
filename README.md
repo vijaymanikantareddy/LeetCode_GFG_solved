@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0040-combination-sum-ii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0040-combination-sum-ii) |
 | [0056-merge-intervals](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0073-set-matrix-zeroes) |
@@ -228,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0162-find-peak-element) |
 | [0410-split-array-largest-sum](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0410-split-array-largest-sum) |
@@ -446,4 +448,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0386-lexicographical-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
