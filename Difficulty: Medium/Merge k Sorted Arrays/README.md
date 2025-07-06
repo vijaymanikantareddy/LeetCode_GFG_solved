@@ -1,0 +1,9 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays--151335/1?page=1&category=Heap&difficulty=Easy,Medium,Hard&status=unsolved&sortBy=submissions">Merge k Sorted Arrays</a></h2><h3>Difficulty Level : Difficulty: Medium</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Given <strong>k</strong> sorted arrays arranged in the form of a matrix <strong>arr[] </strong>of size <strong>k</strong> * <strong>k</strong>. The task is to merge them into one sorted array. Return the merged sorted array.</span></p>
+<p><span style="font-size: 18px;"><strong>Examples :</strong> </span></p>
+<pre><span style="font-size: 18px;"><strong>Input: </strong>k = 3, arr[][] = [[1, 2, 3}, [4, 5, 6], [7, 8, 9]]
+<strong>Output: </strong>[1, 2, 3, 4, 5, 6, 7, 8, 9]<strong>
+Explanation: </strong>arr[][] has 3 sorted arrays of size 3, arr[][] = [[1, 2, 3],[4, 5, 6],[7, 8, 9]]. The merged list will be [1, 2, 3, 4, 5, 6, 7, 8, 9].</span></pre>
+<pre><span style="font-size: 18px;"><strong>Input: </strong>k = 4, arr[][]= [[1, 2, 3, 4], [2, 2, 3, 4], [5, 5, 6, 6], [7, 8, 9, 9]]
+<strong>Output: </strong>[1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 8, 9, 9] <strong>
+Explanation: </strong>arr[][] has 4 sorted arrays of size 4, arr[][] = [[1, 2, 2, 2], [3, 3, 4, 4], [5, 5, 6, 6], [7, 8, 9, 9 ]]. The merged list will be [1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 8, 9, 9].</span></pre>
+<p><span style="font-size: 18px;"><strong>Constraints</strong>:<br>1 &lt;= k &lt;= 100</span></p></div><p><span style=font-size:18px><strong>Company Tags : </strong><br><code>VMWare</code>&nbsp;<code>Flipkart</code>&nbsp;<code>Amazon</code>&nbsp;<code>Microsoft</code>&nbsp;<code>Citrix</code>&nbsp;<br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Arrays</code>&nbsp;<code>Sorting</code>&nbsp;<code>Heap</code>&nbsp;<code>Data Structures</code>&nbsp;<code>Algorithms</code>&nbsp;
