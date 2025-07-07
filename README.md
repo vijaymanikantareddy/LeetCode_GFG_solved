@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0539-minimum-time-difference) |
+| [0556-next-greater-element-iii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0556-next-greater-element-iii) |
 | [0583-delete-operation-for-two-strings](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0583-delete-operation-for-two-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -271,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0539-minimum-time-difference](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0539-minimum-time-difference) |
+| [0556-next-greater-element-iii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0556-next-greater-element-iii) |
 | [0870-magic-squares-in-grid](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0870-magic-squares-in-grid) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1477-product-of-the-last-k-numbers) |
@@ -440,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0075-sort-colors) |
 | [0295-find-median-from-data-stream](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0295-find-median-from-data-stream) |
+| [0556-next-greater-element-iii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0556-next-greater-element-iii) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2551-apply-operations-to-an-array) |
