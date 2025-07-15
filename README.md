@@ -164,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3194-find-words-containing-character](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3194-find-words-containing-character) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3396-valid-word](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3447-clear-digits) |
 | [3617-find-the-original-typed-string-i](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3617-find-the-original-typed-string-i) |
