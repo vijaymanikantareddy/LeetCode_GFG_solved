@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0179-largest-number) |
 | [0239-sliding-window-maximum](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0239-sliding-window-maximum) |
+| [0274-h-index](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0274-h-index) |
 | [0410-split-array-largest-sum](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0503-next-greater-element-ii) |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0179-largest-number) |
+| [0274-h-index](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0295-find-median-from-data-stream) |
 | [0539-minimum-time-difference](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0539-minimum-time-difference) |
 | [0780-max-chunks-to-make-sorted](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0780-max-chunks-to-make-sorted) |
@@ -531,4 +533,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
