@@ -180,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2401-count-asterisks](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2401-count-asterisks) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2887-sort-vowels-in-a-string](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3194-find-words-containing-character) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3396-valid-word](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3396-valid-word) |
@@ -251,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2215-finding-3-digit-even-numbers](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2887-sort-vowels-in-a-string](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2887-sort-vowels-in-a-string) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3748-sort-matrix-by-diagonals) |
