@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0045-jump-game-ii) |
 | [0056-merge-intervals](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0074-search-a-2d-matrix) |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0045-jump-game-ii) |
 | [0179-largest-number](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0410-split-array-largest-sum) |
 | [0780-max-chunks-to-make-sorted](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0780-max-chunks-to-make-sorted) |
@@ -457,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0045-jump-game-ii) |
 | [0118-pascals-triangle](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0131-palindrome-partitioning) |
