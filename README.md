@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0920-uncommon-words-from-two-sentences](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1256-rank-transform-of-an-array) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1364-tuple-with-same-product](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1364-tuple-with-same-product) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0583-delete-operation-for-two-strings](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0583-delete-operation-for-two-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1786-count-the-number-of-consistent-strings) |
