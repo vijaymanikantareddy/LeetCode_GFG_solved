@@ -1,13 +1,3 @@
-//{ Driver Code Starts
-// Initial Template for C++
-
-#include <bits/stdc++.h>
-using namespace std;
-
-
-// } Driver Code Ends
-
-
 class Solution {
   public:
     string decodedString(string &s) {
@@ -20,8 +10,8 @@ class Solution {
                     temp += st.top();
                     st.pop();
                 }
-                reverse(temp.begin(), temp.end());
                 st.pop();
+                reverse(temp.begin(), temp.end());
                 string snum = "";
                 while(!st.empty() && st.top() >= '0' && st.top() <= '9'){
                     snum += st.top();
@@ -40,30 +30,10 @@ class Solution {
         }
         string res = "";
         while(!st.empty()){
-            res.push_back(st.top());
+            res += st.top();
             st.pop();
         }
         reverse(res.begin(), res.end());
         return res;
     }
 };
-
-
-//{ Driver Code Starts.
-
-int main() {
-    int t;
-    cin >> t;
-    while (t--) {
-        string s;
-        cin >> s;
-
-        Solution ob;
-        cout << ob.decodedString(s) << "\n";
-
-        cout << "~"
-             << "\n";
-    }
-    return 0;
-}
-// } Driver Code Ends
