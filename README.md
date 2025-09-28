@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0906-walking-robot-simulation) |
 | [0943-sum-of-subarray-minimums](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0943-sum-of-subarray-minimums) |
+| [1018-largest-perimeter-triangle](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1018-largest-perimeter-triangle) |
 | [1046-max-consecutive-ones-iii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -237,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0780-max-chunks-to-make-sorted](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1018-largest-perimeter-triangle](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1448-maximum-69-number](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -263,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0611-valid-triangle-number](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0611-valid-triangle-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0780-max-chunks-to-make-sorted) |
 | [0900-reordered-power-of-2](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1018-largest-perimeter-triangle) |
 | [1256-rank-transform-of-an-array](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1256-rank-transform-of-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -342,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0830-largest-triangle-area](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0830-largest-triangle-area) |
 | [0870-magic-squares-in-grid](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0870-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1018-largest-perimeter-triangle) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1477-product-of-the-last-k-numbers) |
