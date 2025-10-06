@@ -164,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0127-word-ladder) |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0045-jump-game-ii) |
 | [0179-largest-number](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0410-split-array-largest-sum) |
@@ -452,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0044-wildcard-matching) |
 | [0231-power-of-two](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0342-power-of-four) |
@@ -497,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0118-pascals-triangle) |
