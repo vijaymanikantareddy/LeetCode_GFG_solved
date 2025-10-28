@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0503-next-greater-element-ii) |
 | [0539-minimum-time-difference](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0542-01-matrix) |
 | [0611-valid-triangle-number](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0611-valid-triangle-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0780-max-chunks-to-make-sorted) |
 | [0830-largest-triangle-area](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0830-largest-triangle-area) |
@@ -398,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0074-search-a-2d-matrix) |
+| [0542-01-matrix](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0542-01-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0870-magic-squares-in-grid) |
 | [1396-count-servers-that-communicate](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1396-count-servers-that-communicate) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -513,6 +515,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0127-word-ladder) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0542-01-matrix](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0542-01-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1396-count-servers-that-communicate) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -529,6 +532,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0337-house-robber-iii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0337-house-robber-iii) |
 | [0410-split-array-largest-sum](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0583-delete-operation-for-two-strings) |
 | [0943-sum-of-subarray-minimums](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0943-sum-of-subarray-minimums) |
 | [1063-best-sightseeing-pair](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1063-best-sightseeing-pair) |
