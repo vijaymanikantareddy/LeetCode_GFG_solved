@@ -175,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0076-minimum-window-substring) |
@@ -565,6 +566,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Union Find
 |  |
@@ -595,6 +597,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0165-compare-version-numbers) |
 | [0295-find-median-from-data-stream](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0295-find-median-from-data-stream) |
