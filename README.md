@@ -186,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0165-compare-version-numbers](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0179-largest-number) |
+| [0415-add-strings](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0556-next-greater-element-iii) |
 | [0583-delete-operation-for-two-strings](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0583-delete-operation-for-two-strings) |
@@ -374,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0342-power-of-four) |
+| [0415-add-strings](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0556-next-greater-element-iii) |
 | [0830-largest-triangle-area](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0830-largest-triangle-area) |
@@ -463,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0415-add-strings) |
 | [0906-walking-robot-simulation](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0906-walking-robot-simulation) |
 | [1642-water-bottles](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1642-water-bottles) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2021-remove-all-occurrences-of-a-substring) |
