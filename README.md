@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0073-set-matrix-zeroes) |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0058-length-of-last-word) |
@@ -366,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0013-roman-to-integer) |
 | [0166-fraction-to-recurring-decimal](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0326-power-of-three) |
