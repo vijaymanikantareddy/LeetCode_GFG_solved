@@ -1,8 +1,8 @@
 class Solution {
 public:
-    bool issim(vector<int>& fre, vector<int> mp){
+    bool fun(vector<int>& a, vector<int>& b){
         for(int i = 0 ; i < 26 ; i++){
-            if(mp[i] != fre[i]){
+            if(a[i] != b[i]){
                 return false;
             }
         }
@@ -10,29 +10,23 @@ public:
     }
     vector<int> findAnagrams(string s, string p) {
         vector<int> res;
-        if(s.size() < p.size()){
-            return res;
-        }
+        if(s.size() < p.size()) return res;
         vector<int> mp(26, 0);
-	    for(int i = 0 ; i < p.size() ; i++){
-	        int d = p[i]-'a';
-	        mp[d]++;
-	    }
-	    vector<int> fre(26, 0);
-	    int psize = p.size();
-	    for(int i = 0 ; i < psize ; i++){
-	        fre[s[i]-'a']++;
-	    }
-	    if(issim(fre, mp)){
-	        res.push_back(0);
-	    }
-	    for(int i = psize ; i < s.size(); i++){
-	        fre[s[i-psize] - 'a']--;
-	        fre[s[i] - 'a']++;
-	        if(issim(fre, mp)){
-	            res.push_back(i-psize+1);
-	        }
-	    }
-	    return res;
+        for(char ch: p) mp[ch - 'a']++;
+        vector<int> fre(26, 0);
+        for(int i = 0 ; i < p.size() ; i++){
+            fre[s[i] - 'a']++;
+        }
+        if(fun(mp, fre)){
+            res.push_back(0);
+        }
+        for(int i = p.size() ; i < s.size() ; i++){
+            fre[s[i - p.size()] - 'a']--;
+            fre[s[i] - 'a']++;
+            if(fun(mp, fre)){
+                res.push_back(i - p.size() + 1);
+            }
+        }
+        return res;
     }
 };
