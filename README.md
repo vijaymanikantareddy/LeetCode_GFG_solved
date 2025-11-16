@@ -199,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1302-delete-characters-to-make-fancy-string](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1904-second-largest-digit-in-a-string) |
@@ -387,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1477-product-of-the-last-k-numbers) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
