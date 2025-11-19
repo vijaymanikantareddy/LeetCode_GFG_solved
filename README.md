@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2308-divide-array-into-equal-pairs) |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2300-construct-string-with-repeat-limit](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2308-divide-array-into-equal-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2429-design-a-food-rating-system) |
@@ -305,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2215-finding-3-digit-even-numbers) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -479,6 +482,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2155-find-missing-observations](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2155-find-missing-observations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2411-spiral-matrix-iv) |
