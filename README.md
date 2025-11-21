@@ -191,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0179-largest-number) |
 | [0415-add-strings](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0520-detect-capital](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0520-detect-capital) |
 | [0539-minimum-time-difference](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0556-next-greater-element-iii) |
 | [0583-delete-operation-for-two-strings](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0583-delete-operation-for-two-strings) |
