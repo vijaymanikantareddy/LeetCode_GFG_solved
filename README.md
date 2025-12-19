@@ -309,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2092-find-all-people-with-secret](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2092-find-all-people-with-secret) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2215-finding-3-digit-even-numbers) |
@@ -345,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0776-n-ary-tree-postorder-traversal](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1396-count-servers-that-communicate](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1396-count-servers-that-communicate) |
+| [2092-find-all-people-with-secret](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2092-find-all-people-with-secret) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Search Tree
@@ -552,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0542-01-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1396-count-servers-that-communicate) |
+| [2092-find-all-people-with-secret](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2092-find-all-people-with-secret) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Dynamic Programming
@@ -598,6 +601,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0128-longest-consecutive-sequence) |
 | [1396-count-servers-that-communicate](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1396-count-servers-that-communicate) |
+| [2092-find-all-people-with-secret](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2092-find-all-people-with-secret) |
 ## Design
 |  |
 | ------- |
@@ -699,4 +703,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2324-find-triangular-sum-of-an-array) |
+## Graph
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2092-find-all-people-with-secret) |
 <!---LeetCode Topics End-->
