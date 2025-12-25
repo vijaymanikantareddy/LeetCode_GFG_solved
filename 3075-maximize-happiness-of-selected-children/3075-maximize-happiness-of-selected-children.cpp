@@ -1,17 +1,17 @@
 class Solution {
 public:
     long long maximumHappinessSum(vector<int>& happiness, int k) {
-        sort(happiness.begin(), happiness.end());
-        long long res = 0, vi = 0;
-        int i = happiness.size()-1;
+        sort(happiness.rbegin(), happiness.rend());
+        long long res = 0;
+        int i = 0;
+        int cnt = 0;
         while(k > 0){
-            if(happiness[i]-vi <= 0){
+            if(happiness[i] - cnt <= 0){
                 break;
             }
-            res += happiness[i] - vi;
-            // cout << res << " " << happiness[i] << " " << vi << endl;
-            i--;
-            vi++;
+            res += (happiness[i] - cnt);
+            cnt++;
+            i++;
             k--;
         }
         return res;
