@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3074-apple-redistribution-into-boxes](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -292,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3074-apple-redistribution-into-boxes](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -325,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2887-sort-vowels-in-a-string](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2887-sort-vowels-in-a-string) |
 | [3074-apple-redistribution-into-boxes](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3748-sort-matrix-by-diagonals) |
