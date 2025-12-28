@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2551-apply-operations-to-an-array](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2895-minimum-processing-time](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2895-minimum-processing-time) |
 | [3074-apple-redistribution-into-boxes](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -295,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2895-minimum-processing-time](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2895-minimum-processing-time) |
 | [3074-apple-redistribution-into-boxes](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -330,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2402-meeting-rooms-iii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2402-meeting-rooms-iii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2887-sort-vowels-in-a-string](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2887-sort-vowels-in-a-string) |
+| [2895-minimum-processing-time](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2895-minimum-processing-time) |
 | [3074-apple-redistribution-into-boxes](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3241-divide-array-into-arrays-with-max-difference) |
