@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1396-count-servers-that-communicate](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1396-count-servers-that-communicate) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1477-product-of-the-last-k-numbers](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1477-product-of-the-last-k-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -605,6 +606,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0943-sum-of-subarray-minimums](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0943-sum-of-subarray-minimums) |
 | [1063-best-sightseeing-pair](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1063-best-sightseeing-pair) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
