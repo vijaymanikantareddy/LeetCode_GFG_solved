@@ -1,9 +1,3 @@
-//{ Driver Code Starts
-#include <bits/stdc++.h>
-using namespace std;
-
-
-// } Driver Code Ends
 class Solution {
   public:
     bool dfs(vector<vector<char>>& board, vector<vector<bool>>& vis, int row, int col, int index, string word){
@@ -44,30 +38,3 @@ class Solution {
         return false;
     }
 };
-
-//{ Driver Code Starts.
-int main() {
-    int tc;
-    cin >> tc;
-    while (tc--) {
-        int n, m;
-        cin >> n >> m;
-        vector<vector<char>> mat(n, vector<char>(m, '*'));
-        for (int i = 0; i < n; i++)
-            for (int j = 0; j < m; j++)
-                cin >> mat[i][j];
-        string word;
-        cin >> word;
-        Solution obj;
-        bool ans = obj.isWordExist(mat, word);
-        if (ans)
-            cout << "true\n";
-        else
-            cout << "false\n";
-
-        cout << "~"
-             << "\n";
-    }
-    return 0;
-}
-// } Driver Code Ends
