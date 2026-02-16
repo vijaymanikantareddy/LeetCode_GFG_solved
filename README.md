@@ -493,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0476-number-complement) |
@@ -736,6 +737,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0004-median-of-two-sorted-arrays) |
+| [0190-reverse-bits](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0190-reverse-bits) |
 | [3719-longest-balanced-subarray-i](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3719-longest-balanced-subarray-i) |
 ## Memoization
 |  |
