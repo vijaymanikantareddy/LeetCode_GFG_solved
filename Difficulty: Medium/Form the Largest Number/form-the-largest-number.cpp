@@ -1,19 +1,23 @@
 class Solution {
   public:
-    static bool fun(int &a, int& b){
-	    return to_string(a) + to_string(b) > to_string(b)+ to_string(a);
+    static bool fun(string &a, string &b){
+	    return a+b > b+a;
 	}
     string findLargest(vector<int> &arr) {
         // code here
-        sort(arr.begin(), arr.end(), fun);
+        vector<string> nums;
+        for(auto it: arr){
+            nums.push_back(to_string(it));
+        }
+        sort(nums.begin(), nums.end(), fun);
 	    string res = "";
-	    for(int s: arr) res += to_string(s);
+	    for(string s: nums) res += s;
 	    int i = 0;
 	    while(i < res.size() && res[i] == '0'){
 	        i++;
 	    }
 	    if(i == res.size()) return "0";
 	    string temp = res.substr(i, res.size() - i + 1);
-	    return temp;
+	    return temp;        
     }
 };
