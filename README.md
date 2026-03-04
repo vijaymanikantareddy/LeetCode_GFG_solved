@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1510-find-lucky-integer-in-an-array](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -478,6 +479,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0870-magic-squares-in-grid](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0870-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1396-count-servers-that-communicate) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1975-maximum-matrix-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2244-number-of-laser-beams-in-a-bank) |
