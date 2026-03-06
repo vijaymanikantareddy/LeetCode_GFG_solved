@@ -6,7 +6,7 @@ class Solution {
         }
         return true;
     }
-    string smallestWindow(string &s, string &p) {
+    string minWindow(string &s, string &p) {
         // code here
         if(p.size() > s.size()) return "";
         vector<int> smp(256, 0), pmp(256, 0);
