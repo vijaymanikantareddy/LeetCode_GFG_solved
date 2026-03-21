@@ -366,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0096-unique-binary-search-trees) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0145-binary-tree-postorder-traversal) |
@@ -398,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0074-search-a-2d-matrix) |
+| [0096-unique-binary-search-trees](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0096-unique-binary-search-trees) |
 | [0162-find-peak-element](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0162-find-peak-element) |
 | [0275-h-index-ii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0275-h-index-ii) |
 | [0410-split-array-largest-sum](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0410-split-array-largest-sum) |
@@ -418,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0096-unique-binary-search-trees) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0145-binary-tree-postorder-traversal) |
@@ -432,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0013-roman-to-integer](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0067-add-binary) |
+| [0096-unique-binary-search-trees](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0096-unique-binary-search-trees) |
 | [0166-fraction-to-recurring-decimal](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0326-power-of-three) |
@@ -632,6 +636,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0044-wildcard-matching](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0064-minimum-path-sum) |
+| [0096-unique-binary-search-trees](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
