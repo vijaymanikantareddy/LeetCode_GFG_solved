@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1813-maximum-erasure-value](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1917-maximum-average-pass-ratio](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1975-maximum-matrix-sum](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1975-maximum-matrix-sum) |
@@ -489,6 +490,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1396-count-servers-that-communicate) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1975-maximum-matrix-sum](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1975-maximum-matrix-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2244-number-of-laser-beams-in-a-bank) |
