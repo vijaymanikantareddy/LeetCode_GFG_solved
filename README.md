@@ -244,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1980-find-unique-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2107-find-unique-binary-string](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -561,6 +562,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2048-build-array-from-permutation) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2155-find-missing-observations](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2155-find-missing-observations) |
