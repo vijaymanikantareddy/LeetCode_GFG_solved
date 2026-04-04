@@ -437,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0013-roman-to-integer](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0096-unique-binary-search-trees) |
 | [0166-fraction-to-recurring-decimal](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0231-power-of-two) |
@@ -505,6 +506,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0037-sudoku-solver](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0040-combination-sum-ii) |
+| [0089-gray-code](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0089-gray-code) |
 | [0131-palindrome-partitioning](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0494-target-sum) |
 | [1980-find-unique-binary-string](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1980-find-unique-binary-string) |
@@ -514,6 +516,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0342-power-of-four) |
