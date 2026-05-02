@@ -458,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0415-add-strings](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0556-next-greater-element-iii) |
+| [0788-rotated-digits](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0788-rotated-digits) |
 | [0830-largest-triangle-area](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0830-largest-triangle-area) |
 | [0870-magic-squares-in-grid](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0870-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0900-reordered-power-of-2) |
@@ -671,6 +672,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0788-rotated-digits](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0788-rotated-digits) |
 | [0943-sum-of-subarray-minimums](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0943-sum-of-subarray-minimums) |
 | [1063-best-sightseeing-pair](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1063-best-sightseeing-pair) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1262-greatest-sum-divisible-by-three) |
