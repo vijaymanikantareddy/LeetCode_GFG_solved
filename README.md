@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0542-01-matrix) |
 | [0611-valid-triangle-number](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0780-max-chunks-to-make-sorted](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0780-max-chunks-to-make-sorted) |
 | [0830-largest-triangle-area](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0830-largest-triangle-area) |
@@ -352,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0295-find-median-from-data-stream) |
 | [0539-minimum-time-difference](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0539-minimum-time-difference) |
 | [0611-valid-triangle-number](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0780-max-chunks-to-make-sorted](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0780-max-chunks-to-make-sorted) |
 | [0900-reordered-power-of-2](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1018-largest-perimeter-triangle) |
@@ -462,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0415-add-strings](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0556-next-greater-element-iii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0788-rotated-digits) |
 | [0830-largest-triangle-area](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0830-largest-triangle-area) |
 | [0870-magic-squares-in-grid](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0870-magic-squares-in-grid) |
