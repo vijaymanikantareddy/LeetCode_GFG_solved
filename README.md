@@ -282,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3447-clear-digits) |
 | [3462-vowels-game-in-a-string](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3462-vowels-game-in-a-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -384,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3075-maximize-happiness-of-selected-children](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3748-sort-matrix-by-diagonals) |
 ## Tree
 |  |
@@ -812,6 +814,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0274-h-index](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0274-h-index) |
 | [1833-maximum-ice-cream-bars](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1833-maximum-ice-cream-bars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Game Theory
 |  |
 | ------- |
