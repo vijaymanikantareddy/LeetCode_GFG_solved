@@ -851,4 +851,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0334-increasing-triplet-subsequence) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
