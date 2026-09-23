@@ -1,0 +1,15 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/pyramid-form3044/1">Pyramid Array with Reduce Operations</a></h2><h3>Difficulty Level : Difficulty: Medium</h3><hr><div class="problems_problem_content__Xm_eO" style="--text-color: var(--problem-text-color);"><p class="PDq2pG_selectionAnchorContainer" data-start="197" data-end="318"><span style="font-size: 14pt;">Given an array <strong data-start="220" data-end="229">arr[]</strong> consisting of stones, where arr[i] represents the height of the i-th stone. </span></p>
+<ul>
+<li class="PDq2pG_selectionAnchorContainer" data-start="197" data-end="318"><span style="font-size: 14pt;">You need to transform the stones into a pyramid by only reducing the heights of the stones. </span><span style="font-size: 14pt;">Reducing the height of a stone by 1 costs 1 unit, and stones cannot be increased or moved. </span></li>
+<li class="PDq2pG_selectionAnchorContainer" data-start="197" data-end="318"><span style="font-size: 14pt;">A valid pyramid consists of a contiguous subarray whose heights follow the pattern:&nbsp;</span><span style="font-size: 14pt;">1, 2, 3, ..., x - 1, x, x - 1, ..., 2, 1 </span><span style="font-size: 14pt;">for some positive integer x. </span></li>
+<li class="PDq2pG_selectionAnchorContainer" data-start="197" data-end="318"><span style="font-size: 14pt;">Every stone outside this subarray must have a height of 0.</span></li>
+</ul>
+<p><span style="font-size: 14pt;"> </span></p>
+<p data-start="779" data-end="924"><span style="font-size: 14pt;">Find the minimum total cost required to build a pyramid. It is guaranteed that at least one valid pyramid can always be formed.</span></p>
+<p><span style="font-size: 18px;"><strong>Examples:</strong></span><span style="font-size: 18px;"> </span></p>
+<pre><span style="font-size: 18px;"><strong style="font-size: 18px;">Input:</strong> </span><span style="font-size: 18px;">arr[]<strong> </strong>= [1, 2, 3, 4, 2, 1]</span>
+<span style="font-size: 18px;"><strong><span style="font-size: 18px;">Output:</span> </strong></span><span style="font-size: 18px;">4</span>
+<span style="font-size: 18px;"><strong><span style="font-size: 18px;">Explanation:</span> </strong></span><span style="font-size: 18px;">We </span><span style="font-size: 18px;">can obtain the array [1, 2, 3, 2, 1, 0] by subtracting 2 out of 4, 1 out of 2, and 1 out of 1. In total, we will subtract 4.</span></pre>
+<pre><span style="font-size: 18px;"><strong style="font-size: 18px;">Input:</strong><strong> </strong></span><span style="font-size: 18px;">arr[] =<strong> </strong>[1, 2, 1]</span>
+<span style="font-size: 18px;"><strong><span style="font-size: 18px;">Output:</span> </strong></span><span style="font-size: 18px;">0</span>
+<span style="font-size: 18px;"><strong><span style="font-size: 18px;">Explanation:</span> </strong></span><span style="font-size: 18px;">The array is already in pyramid form.</span></pre></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Dynamic Programming</code>&nbsp;
