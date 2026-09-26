@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1813-maximum-erasure-value](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1813-maximum-erasure-value) |
 | [1833-maximum-ice-cream-bars](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1833-maximum-ice-cream-bars) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1813-maximum-erasure-value](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1813-maximum-erasure-value) |
 | [1904-second-largest-digit-in-a-string](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -254,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1967-longest-substring-of-all-vowels-in-order) |
