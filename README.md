@@ -225,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0067-add-binary) |
@@ -580,6 +581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0032-longest-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0503-next-greater-element-ii) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -693,6 +695,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0064-minimum-path-sum) |
@@ -895,6 +898,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
