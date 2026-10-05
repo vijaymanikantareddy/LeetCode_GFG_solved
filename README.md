@@ -244,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0657-robot-return-to-origin](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0856-score-of-parentheses](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0856-score-of-parentheses) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0944-delete-columns-to-make-sorted](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0944-delete-columns-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -589,6 +590,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0678-valid-parenthesis-string) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0780-max-chunks-to-make-sorted) |
+| [0856-score-of-parentheses](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0856-score-of-parentheses) |
 | [0943-sum-of-subarray-minimums](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1078-remove-outermost-parentheses) |
@@ -904,6 +906,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
