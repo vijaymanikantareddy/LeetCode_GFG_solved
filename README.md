@@ -249,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0944-delete-columns-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1021-remove-outermost-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1078-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -596,6 +597,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0943-sum-of-subarray-minimums](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1021-remove-outermost-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1078-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -912,6 +914,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
