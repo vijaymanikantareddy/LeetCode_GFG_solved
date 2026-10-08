@@ -1,7 +1,7 @@
-<h2><a href="https://leetcode.com/problems/remove-outermost-parentheses/">1021. Remove Outermost Parentheses</a></h2><h3>Easy</h3><hr><div><p>A valid parentheses string is either empty <code>""</code>, <code>"(" + A + ")"</code>, or <code>A + B</code>, where <code>A</code> and <code>B</code> are valid parentheses strings, and <code>+</code> represents string concatenation.</p>
+<h2><a href="https://leetcode.com/problems/remove-outermost-parentheses">1078. Remove Outermost Parentheses</a></h2><h3>Easy</h3><hr><p>A valid parentheses string is either empty <code>&quot;&quot;</code>, <code>&quot;(&quot; + A + &quot;)&quot;</code>, or <code>A + B</code>, where <code>A</code> and <code>B</code> are valid parentheses strings, and <code>+</code> represents string concatenation.</p>
 
 <ul>
-	<li>For example, <code>""</code>, <code>"()"</code>, <code>"(())()"</code>, and <code>"(()(()))"</code> are all valid parentheses strings.</li>
+	<li>For example, <code>&quot;&quot;</code>, <code>&quot;()&quot;</code>, <code>&quot;(())()&quot;</code>, and <code>&quot;(()(()))&quot;</code> are all valid parentheses strings.</li>
 </ul>
 
 <p>A valid parentheses string <code>s</code> is primitive if it is nonempty, and there does not exist a way to split it into <code>s = A + B</code>, with <code>A</code> and <code>B</code> nonempty valid parentheses strings.</p>
@@ -13,29 +13,32 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre><strong>Input:</strong> s = "(()())(())"
-<strong>Output:</strong> "()()()"
+<pre>
+<strong>Input:</strong> s = &quot;(()())(())&quot;
+<strong>Output:</strong> &quot;()()()&quot;
 <strong>Explanation:</strong> 
-The input string is "(()())(())", with primitive decomposition "(()())" + "(())".
-After removing outer parentheses of each part, this is "()()" + "()" = "()()()".
+The input string is &quot;(()())(())&quot;, with primitive decomposition &quot;(()())&quot; + &quot;(())&quot;.
+After removing outer parentheses of each part, this is &quot;()()&quot; + &quot;()&quot; = &quot;()()()&quot;.
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
-<pre><strong>Input:</strong> s = "(()())(())(()(()))"
-<strong>Output:</strong> "()()()()(())"
+<pre>
+<strong>Input:</strong> s = &quot;(()())(())(()(()))&quot;
+<strong>Output:</strong> &quot;()()()()(())&quot;
 <strong>Explanation:</strong> 
-The input string is "(()())(())(()(()))", with primitive decomposition "(()())" + "(())" + "(()(()))".
-After removing outer parentheses of each part, this is "()()" + "()" + "()(())" = "()()()()(())".
+The input string is &quot;(()())(())(()(()))&quot;, with primitive decomposition &quot;(()())&quot; + &quot;(())&quot; + &quot;(()(()))&quot;.
+After removing outer parentheses of each part, this is &quot;()()&quot; + &quot;()&quot; + &quot;()(())&quot; = &quot;()()()()(())&quot;.
 </pre>
 
 <p><strong class="example">Example 3:</strong></p>
 
-<pre><strong>Input:</strong> s = "()()"
-<strong>Output:</strong> ""
+<pre>
+<strong>Input:</strong> s = &quot;()()&quot;
+<strong>Output:</strong> &quot;&quot;
 <strong>Explanation:</strong> 
-The input string is "()()", with primitive decomposition "()" + "()".
-After removing outer parentheses of each part, this is "" + "" = "".
+The input string is &quot;()()&quot;, with primitive decomposition &quot;()&quot; + &quot;()&quot;.
+After removing outer parentheses of each part, this is &quot;&quot; + &quot;&quot; = &quot;&quot;.
 </pre>
 
 <p>&nbsp;</p>
@@ -43,7 +46,6 @@ After removing outer parentheses of each part, this is "" + "" = "".
 
 <ul>
 	<li><code>1 &lt;= s.length &lt;= 10<sup>5</sup></code></li>
-	<li><code>s[i]</code> is either <code>'('</code> or <code>')'</code>.</li>
+	<li><code>s[i]</code> is either <code>&#39;(&#39;</code> or <code>&#39;)&#39;</code>.</li>
 	<li><code>s</code> is a valid parentheses string.</li>
 </ul>
-</div>
