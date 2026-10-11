@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2551-apply-operations-to-an-array](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2895-minimum-processing-time](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2895-minimum-processing-time) |
 | [3074-apple-redistribution-into-boxes](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -833,6 +834,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1925-count-square-sum-triples](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1925-count-square-sum-triples) |
 | [2215-finding-3-digit-even-numbers](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2215-finding-3-digit-even-numbers) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2998-count-symmetric-integers](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2998-count-symmetric-integers) |
 ## Trie
 |  |
