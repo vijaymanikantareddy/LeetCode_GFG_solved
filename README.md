@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3639-zero-array-transformation-i](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3639-zero-array-transformation-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3719-longest-balanced-subarray-i](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3719-longest-balanced-subarray-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -367,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -408,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3748-sort-matrix-by-diagonals](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3748-sort-matrix-by-diagonals) |
 ## Tree
 |  |
