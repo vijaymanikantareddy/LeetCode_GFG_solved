@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2895-minimum-processing-time](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2895-minimum-processing-time) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2448-count-number-of-bad-pairs](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3227-find-missing-and-repeated-values) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -881,6 +883,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3719-longest-balanced-subarray-i) |
 ## Rolling Hash
 |  |
@@ -927,4 +930,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
