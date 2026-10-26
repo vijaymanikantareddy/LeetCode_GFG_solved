@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3639-zero-array-transformation-i](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3639-zero-array-transformation-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3719-longest-balanced-subarray-i](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3719-longest-balanced-subarray-i) |
@@ -453,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2092-find-all-people-with-secret](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2092-find-all-people-with-secret) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -568,6 +570,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2411-spiral-matrix-iv](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2411-spiral-matrix-iv) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3227-find-missing-and-repeated-values](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3227-find-missing-and-repeated-values) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3748-sort-matrix-by-diagonals](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3748-sort-matrix-by-diagonals) |
 ## Backtracking
 |  |
@@ -720,6 +723,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2092-find-all-people-with-secret](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2092-find-all-people-with-secret) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -948,4 +952,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vijaymanikantareddy/LeetCode_GFG_solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
